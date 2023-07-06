@@ -52,6 +52,7 @@ Ketika bermain tenis, performa dan keamanan adalah yang utama. Lapangan tenis ru
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Investasi di lapangan tenis rubber merupakan pilihan yang bijak karena daya tahan dan umur panjangnya. Komposisi karet pada permukaan lapangan tenis ini memastikan ketahanannya terhadap aus dan robek, menjadikannya sangat tahan lama bahkan di area dengan lalu lintas tinggi. Lapangan tenis rubber mampu menahan penggunaan yang intensif, membuatnya menjadi pilihan yang ekonomis dalam jangka panjang. Dengan perawatan yang tepat, lapangan tenis rubber dapat memberikan pengalaman bermain tenis yang menyenangkan selama bertahun-tahun.
                         </p>
+                        </div>
                         <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                      4. Membutuhkan Perawatan Rendah
                     </h2>
@@ -66,6 +67,7 @@ Ketika bermain tenis, performa dan keamanan adalah yang utama. Lapangan tenis ru
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                            Lapangan tenis rubber menawarkan fleksibilitas dalam desain, memungkinkan para pemain tenis untuk menyesuaikan lapangan sesuai dengan preferensi mereka. Pigmen warna yang digunakan dalam permukaan karet dapat dipilih untuk sesuai dengan lingkungan sekitarnya atau menciptakan daya tarik visual yang unik. Selain itu, lapangan tenis rubber dapat dipasang dalam berbagai ukuran dan bentuk lapangan, mengakomodasi batasan ruang atau persyaratan desain yang berbeda. Fleksibilitas dalam desain ini memastikan pemain tenis dapat menciptakan lapangan yang tidak hanya fungsional tetapi juga menarik secara visual.
                         </p>
+                        </div>
                          <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     6. Ramah Lingkungan
                     </h2>
