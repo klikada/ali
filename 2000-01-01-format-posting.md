@@ -171,7 +171,7 @@ Pada musim hujan, penting untuk memastikan bahwa saluran drainase lapangan berfu
             Berikut Lapangan Tenis Kami
         </h2>
         <h3 class="mbr-section-subtitle display-5 align-center mbr-fonts-style">
-            **Dengan kualitas dan sentuhan profesional, kami yakin anda akan mendapatkan kepuasan layanan kami.
+            Dengan kualitas dan sentuhan profesional, kami yakin anda akan mendapatkan kepuasan layanan kami.
         </h3>
         <div class="media-container-row container pt-5 mt-2">
             <div class="col-12 col-md-6 mb-4 col-lg-4">
