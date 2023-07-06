@@ -86,15 +86,28 @@ Ketika bermain tenis, performa dan keamanan adalah yang utama. Lapangan tenis ru
                             <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                          2. **Pembuatan Fondasi**: Lakukan pembuatan fondasi yang solid dan stabil untuk lapangan tenis rubber. Fondasi yang baik akan memastikan bahwa lapangan tetap rata dan tahan lama.
                            </p>
+                            <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                         3. **Pemasangan Geotekstil**: Tempatkan lapisan geotekstil di atas fondasi untuk mencegah pertumbuhan rumput atau tanah yang dapat merusak permukaan lapangan.
+                           </p>
+                            <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                        4. **Pengaplikasian Rubber**: Campurkan butiran karet dengan bahan perekat sesuai dengan petunjuk produsen. Kemudian, aplikasikan campuran ini secara merata ke permukaan lapangan.
+                           </p>
+                            <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                        5. **Pengeringan dan Pemadatan**: Setelah mengaplikasikan butiran karet, biarkan lapangan mengering secara menyeluruh. Kemudian, lakukan pemadatan menggunakan peralatan yang sesuai untuk mencapai kepadatan yang optimal.
+                           </p>
+                            <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                        6. **Pengecatan dan Penyelesaian**: Terakhir, lakukan pengecatan permukaan lapangan dengan pigmen warna yang diinginkan. Setelah pengecatan selesai, lapangan tenis rubber siap digunakan.
+                           </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Cara Merawat Lapangan Tenis Rubber
                     </h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Merawat lapangan tenis rubber dengan baik akan memastikan umur panjang dan performa yang optimal. Berikut adalah beberapa tips perawatan yang perlu diperhatikan:
-
-1. **Penyapuan Rutin**: Lakukan penyapuan rutin untuk menghilangkan debu, dedaunan, atau kotoran yang menempel di permukaan lapangan. Hal ini dapat dilakukan dengan menggunakan sapu karet atau mesin penyapu lapangan.
+                           Merawat lapangan tenis rubber dengan baik akan memastikan umur panjang dan performa yang optimal. Berikut adalah beberapa tips perawatan yang perlu diperhatikan:
+                        </p>
+                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                          1. **Penyapuan Rutin**: Lakukan penyapuan rutin untuk menghilangkan debu, dedaunan, atau kotoran yang menempel di permukaan lapangan. Hal ini dapat dilakukan dengan menggunakan sapu karet atau mesin penyapu lapangan.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             2. **Pembersihan Secara Berkala**: Lakukan pembersihan lebih lanjut secara berkala menggunakan air tekanan tinggi. Ini akan membantu menghilangkan kotoran yang lebih sulit dibersihkan dan menjaga lapangan tetap bersih.
