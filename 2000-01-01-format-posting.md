@@ -81,22 +81,22 @@ Ketika bermain tenis, performa dan keamanan adalah yang utama. Lapangan tenis ru
                            Instalasi lapangan tenis rubber membutuhkan pemahaman yang baik tentang teknik dan prosedur yang tepat. Proses instalasi biasanya melibatkan langkah-langkah berikut:
                            </p>
                             <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                          1. **Pemeriksaan Area**: Lakukan pemeriksaan menyeluruh terhadap area yang akan dijadikan lapangan tenis rubber. Pastikan bahwa permukaannya datar dan bebas dari kerusakan atau penghalang yang mengganggu.
+                          1.Pemeriksaan Area: Lakukan pemeriksaan menyeluruh terhadap area yang akan dijadikan lapangan tenis rubber. Pastikan bahwa permukaannya datar dan bebas dari kerusakan atau penghalang yang mengganggu.
                            </p>
                             <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                         2. **Pembuatan Fondasi**: Lakukan pembuatan fondasi yang solid dan stabil untuk lapangan tenis rubber. Fondasi yang baik akan memastikan bahwa lapangan tetap rata dan tahan lama.
+                         2.Pembuatan Fondasi: Lakukan pembuatan fondasi yang solid dan stabil untuk lapangan tenis rubber. Fondasi yang baik akan memastikan bahwa lapangan tetap rata dan tahan lama.
                            </p>
                             <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                         3. **Pemasangan Geotekstil**: Tempatkan lapisan geotekstil di atas fondasi untuk mencegah pertumbuhan rumput atau tanah yang dapat merusak permukaan lapangan.
+                         3.Pemasangan Geotekstil: Tempatkan lapisan geotekstil di atas fondasi untuk mencegah pertumbuhan rumput atau tanah yang dapat merusak permukaan lapangan.
                            </p>
                             <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                        4. **Pengaplikasian Rubber**: Campurkan butiran karet dengan bahan perekat sesuai dengan petunjuk produsen. Kemudian, aplikasikan campuran ini secara merata ke permukaan lapangan.
+                        4.Pengaplikasian Rubber: Campurkan butiran karet dengan bahan perekat sesuai dengan petunjuk produsen. Kemudian, aplikasikan campuran ini secara merata ke permukaan lapangan.
                            </p>
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                        5.Pengeringan dan Pemadatan: Setelah mengaplikasikan butiran karet, biarkan lapangan mengering secara menyeluruh. Kemudian, lakukan pemadatan menggunakan peralatan yang sesuai untuk mencapai kepadatan yang optimal.
+                        </p>
                             <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                        5. **Pengeringan dan Pemadatan**: Setelah mengaplikasikan butiran karet, biarkan lapangan mengering secara menyeluruh. Kemudian, lakukan pemadatan menggunakan peralatan yang sesuai untuk mencapai kepadatan yang optimal.
-                           </p>
-                            <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                        6. **Pengecatan dan Penyelesaian**: Terakhir, lakukan pengecatan permukaan lapangan dengan pigmen warna yang diinginkan. Setelah pengecatan selesai, lapangan tenis rubber siap digunakan.
+                        6.Pengecatan dan Penyelesaian: Terakhir, lakukan pengecatan permukaan lapangan dengan pigmen warna yang diinginkan. Setelah pengecatan selesai, lapangan tenis rubber siap digunakan.
                            </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
