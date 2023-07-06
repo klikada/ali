@@ -31,35 +31,34 @@ deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis y
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Keuntungan Lapangan Tenis Rubber
                     </h2>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    1. Peningkatan Performa dan Keamanan
+                    </h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            1. Peningkatan Performa dan Keamanan
-
 Ketika bermain tenis, performa dan keamanan adalah yang utama. Lapangan tenis rubber menyediakan permukaan bermain yang sangat baik untuk meningkatkan performa dan keamanan. Butiran karet yang digunakan dalam konstruksinya memberikan daya cengkeram yang superior, memungkinkan pemain untuk melakukan gerakan cepat dan mengubah arah dengan mudah. Selain itu, sifat penyerap kejut lapangan tenis rubber mengurangi dampak pada sendi pemain, mengurangi risiko cedera, dan memastikan lingkungan bermain yang aman.
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     2. Bisa Dimainkan di Semua Cuaca
-
-Salah satu fitur unggulan dari lapangan tenis rubber adalah kemampuannya untuk dimainkan dalam segala cuaca. Berbeda dengan permukaan lain yang mungkin menjadi licin saat basah atau terlalu panas saat terkena sinar matahari, lapangan tenis rubber tetap menjaga kondisi bermain optimalnya tanpa memperdulikan cuaca. Ini berarti para penggemar tenis dapat menikmati permainan mereka di lapangan tenis rubber sepanjang tahun, tanpa harus khawatir tentang hujan atau panas terik.
                     </h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                             3. Daya Tahan dan Umur Panjang
-
-Investasi di lapangan tenis rubber merupakan pilihan yang bijak karena daya tahan dan umur panjangnya. Komposisi karet pada permukaan lapangan tenis ini memastikan ketahanannya terhadap aus dan robek, menjadikannya sangat t
+                            Salah satu fitur unggulan dari lapangan tenis rubber adalah kemampuannya untuk dimainkan dalam segala cuaca. Berbeda dengan permukaan lain yang mungkin menjadi licin saat basah atau terlalu panas saat terkena sinar matahari, lapangan tenis rubber tetap menjaga kondisi bermain optimalnya tanpa memperdulikan cuaca. Ini berarti para penggemar tenis dapat menikmati permainan mereka di lapangan tenis rubber sepanjang tahun, tanpa harus khawatir tentang hujan atau panas terik.
+                        </p>
+                        <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    3. Daya Tahan dan Umur Panjang
+                    </h2>
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                            Investasi di lapangan tenis rubber merupakan pilihan yang bijak karena daya tahan dan umur panjangnya. Komposisi karet pada permukaan lapangan tenis ini memastikan ketahanannya terhadap aus dan robek, menjadikannya sangat t
 
 ahan lama bahkan di area dengan lalu lintas tinggi. Lapangan tenis rubber mampu menahan penggunaan yang intensif, membuatnya menjadi pilihan yang ekonomis dalam jangka panjang. Dengan perawatan yang tepat, lapangan tenis rubber dapat memberikan pengalaman bermain tenis yang menyenangkan selama bertahun-tahun.
                         </p>
+                        <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                     4. Membutuhkan Perawatan Rendah
+                    </h2>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            4. Membutuhkan Perawatan Rendah
-
-Merawat lapangan tenis rubber sangat mudah dan membutuhkan usaha yang minim. Tidak seperti lapangan tanah liat atau rumput yang membutuhkan penyiraman, pemotongan rumput, atau penggantian permukaan secara berkala, lapangan tenis rubber memiliki kebutuhan perawatan yang rendah. Tidak memerlukan penyiraman atau perawatan intensif secara terus-menerus, sehingga menghemat waktu dan sumber daya. Cukup melakukan penyapuan rutin dan pembersihan dengan menggunakan air tekanan tinggi sesekali sudah cukup untuk menjaga permukaan tetap bersih dan dalam kondisi yang baik.
-                        </p>
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                             6. Ramah Lingkungan
-
-Bagi para penggemar tenis yang peduli lingkungan, lapangan tenis rubber adalah pilihan yang sangat baik. Penggunaan bahan karet daur ulang dalam konstruksinya menjadikannya pilihan yang ramah lingkungan. Dengan memanfaatkan kembali bahan karet, limbah yang dihasilkan dapat dikurangi, sehingga membantu dalam menjaga kelestarian lingkungan.
+                            Merawat lapangan tenis rubber sangat mudah dan membutuhkan usaha yang minim. Tidak seperti lapangan tanah liat atau rumput yang membutuhkan penyiraman, pemotongan rumput, atau penggantian permukaan secara berkala, lapangan tenis rubber memiliki kebutuhan perawatan yang rendah. Tidak memerlukan penyiraman atau perawatan intensif secara terus-menerus, sehingga menghemat waktu dan sumber daya. Cukup melakukan penyapuan rutin dan pembersihan dengan menggunakan air tekanan tinggi sesekali sudah cukup untuk menjaga permukaan tetap bersih dan dalam kondisi yang baik.
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
