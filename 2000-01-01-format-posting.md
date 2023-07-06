@@ -50,9 +50,7 @@ Ketika bermain tenis, performa dan keamanan adalah yang utama. Lapangan tenis ru
                     3. Daya Tahan dan Umur Panjang
                     </h2>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Investasi di lapangan tenis rubber merupakan pilihan yang bijak karena daya tahan dan umur panjangnya. Komposisi karet pada permukaan lapangan tenis ini memastikan ketahanannya terhadap aus dan robek, menjadikannya sangat t
-
-ahan lama bahkan di area dengan lalu lintas tinggi. Lapangan tenis rubber mampu menahan penggunaan yang intensif, membuatnya menjadi pilihan yang ekonomis dalam jangka panjang. Dengan perawatan yang tepat, lapangan tenis rubber dapat memberikan pengalaman bermain tenis yang menyenangkan selama bertahun-tahun.
+                            Investasi di lapangan tenis rubber merupakan pilihan yang bijak karena daya tahan dan umur panjangnya. Komposisi karet pada permukaan lapangan tenis ini memastikan ketahanannya terhadap aus dan robek, menjadikannya sangat tahan lama bahkan di area dengan lalu lintas tinggi. Lapangan tenis rubber mampu menahan penggunaan yang intensif, membuatnya menjadi pilihan yang ekonomis dalam jangka panjang. Dengan perawatan yang tepat, lapangan tenis rubber dapat memberikan pengalaman bermain tenis yang menyenangkan selama bertahun-tahun.
                         </p>
                         <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                      4. Membutuhkan Perawatan Rendah
@@ -62,31 +60,30 @@ ahan lama bahkan di area dengan lalu lintas tinggi. Lapangan tenis rubber mampu 
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
-                    Proses Instalasi Lapangan Tenis Rubber
+                    5. Fleksibilitas dalam Desain
                     </h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Instalasi lapangan tenis rubber membutuhkan pemahaman yang baik tentang teknik dan prosedur yang tepat. Proses instalasi biasanya melibatkan langkah-langkah berikut:
-
-1. **Pemeriksaan Area**: Lakukan pemeriksaan menyeluruh terhadap area yang akan dijadikan lapangan tenis rubber. Pastikan bahwa permukaannya datar dan bebas dari kerusakan atau penghalang yang mengganggu.
+                           Lapangan tenis rubber menawarkan fleksibilitas dalam desain, memungkinkan para pemain tenis untuk menyesuaikan lapangan sesuai dengan preferensi mereka. Pigmen warna yang digunakan dalam permukaan karet dapat dipilih untuk sesuai dengan lingkungan sekitarnya atau menciptakan daya tarik visual yang unik. Selain itu, lapangan tenis rubber dapat dipasang dalam berbagai ukuran dan bentuk lapangan, mengakomodasi batasan ruang atau persyaratan desain yang berbeda. Fleksibilitas dalam desain ini memastikan pemain tenis dapat menciptakan lapangan yang tidak hanya fungsional tetapi juga menarik secara visual.
                         </p>
+                         <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    6. Ramah Lingkungan
+                    </h2>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            2. **Pembuatan Fondasi**: Lakukan pembuatan fondasi yang solid dan stabil untuk lapangan tenis rubber. Fondasi yang baik akan memastikan bahwa lapangan tetap rata dan tahan lama.
-                        </p>
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                           3. **Pemasangan Geotekstil**: Tempatkan lapisan geotekstil di atas fondasi untuk mencegah pertumbuhan rumput atau tanah yang dapat merusak permukaan lapangan.
-                        </p>
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                           4. **Pengaplikasian Rubber**: Campurkan butiran karet dengan b
-
-ahan perekat sesuai dengan petunjuk produsen. Kemudian, aplikasikan campuran ini secara merata ke permukaan lapangan.
-                        </p>
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                          5. **Pengeringan dan Pemadatan**: Setelah mengaplikasikan butiran karet, biarkan lapangan mengering secara menyeluruh. Kemudian, lakukan pemadatan menggunakan peralatan yang sesuai untuk mencapai kepadatan yang optimal.
-                        </p>
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                           6. **Pengecatan dan Penyelesaian**: Terakhir, lakukan pengecatan permukaan lapangan dengan pigmen warna yang diinginkan. Setelah pengecatan selesai, lapangan tenis rubber siap digunakan.
-                        </p>
+                           Bagi para penggemar tenis yang peduli lingkungan, lapangan tenis rubber adalah pilihan yang sangat baik. Penggunaan bahan karet daur ulang dalam konstruksinya menjadikannya pilihan yang ramah lingkungan. Dengan memanfaatkan kembali bahan karet, limbah yang dihasilkan dapat dikurangi, sehingga membantu dalam menjaga kelestarian lingkungan.
+                           </p>
+                            <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    Proses Instalasi Lapangan Tenis Rubber
+                    </h2>
+                     <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                           Instalasi lapangan tenis rubber membutuhkan pemahaman yang baik tentang teknik dan prosedur yang tepat. Proses instalasi biasanya melibatkan langkah-langkah berikut:
+                           </p>
+                            <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                          1. **Pemeriksaan Area**: Lakukan pemeriksaan menyeluruh terhadap area yang akan dijadikan lapangan tenis rubber. Pastikan bahwa permukaannya datar dan bebas dari kerusakan atau penghalang yang mengganggu.
+                           </p>
+                            <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                         2. **Pembuatan Fondasi**: Lakukan pembuatan fondasi yang solid dan stabil untuk lapangan tenis rubber. Fondasi yang baik akan memastikan bahwa lapangan tetap rata dan tahan lama.
+                           </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Cara Merawat Lapangan Tenis Rubber
