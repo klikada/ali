@@ -107,22 +107,22 @@ Ketika bermain tenis, performa dan keamanan adalah yang utama. Lapangan tenis ru
                            Merawat lapangan tenis rubber dengan baik akan memastikan umur panjang dan performa yang optimal. Berikut adalah beberapa tips perawatan yang perlu diperhatikan:
                         </p>
                          <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                          1. **Penyapuan Rutin**: Lakukan penyapuan rutin untuk menghilangkan debu, dedaunan, atau kotoran yang menempel di permukaan lapangan. Hal ini dapat dilakukan dengan menggunakan sapu karet atau mesin penyapu lapangan.
+                          1.Penyapuan Rutin: Lakukan penyapuan rutin untuk menghilangkan debu, dedaunan, atau kotoran yang menempel di permukaan lapangan. Hal ini dapat dilakukan dengan menggunakan sapu karet atau mesin penyapu lapangan.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            2. **Pembersihan Secara Berkala**: Lakukan pembersihan lebih lanjut secara berkala menggunakan air tekanan tinggi. Ini akan membantu menghilangkan kotoran yang lebih sulit dibersihkan dan menjaga lapangan tetap bersih.
+                            2.Pembersihan Secara Berkala: Lakukan pembersihan lebih lanjut secara berkala menggunakan air tekanan tinggi. Ini akan membantu menghilangkan kotoran yang lebih sulit dibersihkan dan menjaga lapangan tetap bersih.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            3. **Perbaikan Secepatnya**: Jika ada kerusakan atau retakan kecil pada permukaan lapangan, segera lakukan perbaikan. Hal ini akan mencegah kerusakan yang lebih besar dan memperpanjang umur lapangan.
+                            3.Perbaikan Secepatnya: Jika ada kerusakan atau retakan kecil pada permukaan lapangan, segera lakukan perbaikan. Hal ini akan mencegah kerusakan yang lebih besar dan memperpanjang umur lapangan.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            4. **Pemeliharaan Drainase**: Pastikan sistem drainase lapangan berfungsi dengan baik. Bersihkan saluran drainase secara rutin untuk mencegah genangan air yang dapat merusak permukaan lapangan.
+                            4.Pemeliharaan Drainase: Pastikan sistem drainase lapangan berfungsi dengan baik. Bersihkan saluran drainase secara rutin untuk mencegah genangan air yang dapat merusak permukaan lapangan.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            5. **Perlindungan dari Sinar Matahari**: Jika lapangan terkena paparan sinar matahari langsung, pertimbangkan untuk memberikan perlindungan dengan payung atau tenda untuk menghindari kerusakan akibat panas yang berlebihan.
+                            5.Perlindungan dari Sinar Matahari: Jika lapangan terkena paparan sinar matahari langsung, pertimbangkan untuk memberikan perlindungan dengan payung atau tenda untuk menghindari kerusakan akibat panas yang berlebihan.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            6. **Perawatan Profesional**: Agar lapangan tetap dalam kondisi terbaiknya, seringkali diperlukan perawatan profesional. Jasa perawatan lapangan tenis dapat membantu dalam melakukan perawatan yang lebih mendalam dan mengatasi masalah yang mungkin timbul.
+                            6.Perawatan Profesional: Agar lapangan tetap dalam kondisi terbaiknya, seringkali diperlukan perawatan profesional. Jasa perawatan lapangan tenis dapat membantu dalam melakukan perawatan yang lebih mendalam dan mengatasi masalah yang mungkin timbul.
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
